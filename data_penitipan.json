@@ -7,7 +7,12 @@
       "hewan": [
         { "jenis": "Anjing", "harga_per_hari": 180000 },
         { "jenis": "Kucing", "harga_per_hari": 150000 }
+      ],
+      "gambar": [
+        "https://github.com/dyaspita/penitipan_hewan_api/blob/main/images/cover.jpeg"
+
       ]
+
     },
     {
       "id": 2,
@@ -16,6 +21,10 @@
       "hewan": [
         { "jenis": "Anjing", "harga_per_hari": 130000 },
         { "jenis": "Kucing", "harga_per_hari": 110000 }
+      ],
+      "gambar": [
+        "https://github.com/dyaspita/penitipan_hewan_api/blob/main/images/cover.jpeg"
+        
       ]
     },
     {
@@ -25,6 +34,10 @@
       "hewan": [
         { "jenis": "Anjing", "harga_per_hari": 90000 },
         { "jenis": "Kucing", "harga_per_hari": 75000 }
+      ],
+      "gambar": [
+        "https://github.com/dyaspita/penitipan_hewan_api/blob/main/images/cover.jpeg"
+        
       ]
     },
     {
@@ -34,6 +47,10 @@
       "hewan": [
         { "jenis": "Anjing", "harga_per_hari": 120000 },
         { "jenis": "Kucing", "harga_per_hari": 95000 }
+      ],
+      "gambar": [
+        "https://github.com/dyaspita/penitipan_hewan_api/blob/main/images/cover.jpeg"
+        
       ]
     },
     {
@@ -43,6 +60,10 @@
       "hewan": [
         { "jenis": "Anjing", "harga_per_hari": 200000 },
         { "jenis": "Kucing", "harga_per_hari": 170000 }
+      ],
+      "gambar": [
+        "https://github.com/dyaspita/penitipan_hewan_api/blob/main/images/cover.jpeg"
+        
       ]
     },
     {
