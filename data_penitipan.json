@@ -1,0 +1,94 @@
+{
+  "jenis_layanan": [
+    {
+      "id": 1,
+      "nama": "VIP Suite",
+      "deskripsi": "Ruang ber-AC, tempat tidur empuk, kamera pemantau 24 jam, dan grooming harian.",
+      "hewan": [
+        { "jenis": "Anjing", "harga_per_hari": 180000 },
+        { "jenis": "Kucing", "harga_per_hari": 150000 }
+      ]
+    },
+    {
+      "id": 2,
+      "nama": "Deluxe Room",
+      "deskripsi": "Kandang luas dengan kipas angin, makan premium dua kali sehari, dan mainan pribadi.",
+      "hewan": [
+        { "jenis": "Anjing", "harga_per_hari": 130000 },
+        { "jenis": "Kucing", "harga_per_hari": 110000 }
+      ]
+    },
+    {
+      "id": 3,
+      "nama": "Standard Room",
+      "deskripsi": "Kandang standar, makan rutin dua kali sehari, dan kebersihan harian.",
+      "hewan": [
+        { "jenis": "Anjing", "harga_per_hari": 90000 },
+        { "jenis": "Kucing", "harga_per_hari": 75000 }
+      ]
+    },
+    {
+      "id": 4,
+      "nama": "Outdoor Play Zone",
+      "deskripsi": "Penitipan di area outdoor dengan aktivitas bermain dan jalan pagi/sore.",
+      "hewan": [
+        { "jenis": "Anjing", "harga_per_hari": 120000 },
+        { "jenis": "Kucing", "harga_per_hari": 95000 }
+      ]
+    },
+    {
+      "id": 5,
+      "nama": "Spa & Relax Package",
+      "deskripsi": "Termasuk mandi aromaterapi, pijat relaksasi, dan grooming premium.",
+      "hewan": [
+        { "jenis": "Anjing", "harga_per_hari": 200000 },
+        { "jenis": "Kucing", "harga_per_hari": 170000 }
+      ]
+    },
+    {
+      "id": 6,
+      "nama": "Medical Care Room",
+      "deskripsi": "Untuk hewan yang sedang pemulihan. Dipantau oleh staf medis dan diberi obat sesuai resep.",
+      "hewan": [
+        { "jenis": "Anjing", "harga_per_hari": 220000 },
+        { "jenis": "Kucing", "harga_per_hari": 190000 }
+      ]
+    },
+    {
+      "id": 7,
+      "nama": "Day Care",
+      "deskripsi": "Penitipan setengah hari (maksimal 8 jam) dengan aktivitas ringan.",
+      "hewan": [
+        { "jenis": "Anjing", "harga_per_hari": 70000 },
+        { "jenis": "Kucing", "harga_per_hari": 60000 }
+      ]
+    },
+    {
+      "id": 8,
+      "nama": "Night Stay",
+      "deskripsi": "Penitipan malam saja (jam 18:00–08:00), termasuk makan malam dan pagi.",
+      "hewan": [
+        { "jenis": "Anjing", "harga_per_hari": 85000 },
+        { "jenis": "Kucing", "harga_per_hari": 75000 }
+      ]
+    },
+    {
+      "id": 9,
+      "nama": "Training Camp",
+      "deskripsi": "Program penitipan sekaligus pelatihan dasar seperti duduk, diam, atau litter training.",
+      "hewan": [
+        { "jenis": "Anjing", "harga_per_hari": 250000 },
+        { "jenis": "Kucing", "harga_per_hari": 200000 }
+      ]
+    },
+    {
+      "id": 10,
+      "nama": "Holiday Package",
+      "deskripsi": "Paket penitipan jangka panjang (minimal 5 hari) dengan diskon khusus dan perawatan mingguan.",
+      "hewan": [
+        { "jenis": "Anjing", "harga_per_hari": 160000 },
+        { "jenis": "Kucing", "harga_per_hari": 130000 }
+      ]
+    }
+  ]
+}
