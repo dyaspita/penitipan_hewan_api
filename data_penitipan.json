@@ -9,8 +9,10 @@
         { "jenis": "Kucing", "harga_per_hari": 150000 }
       ],
       "gambar": [
-        "https://github.com/dyaspita/penitipan_hewan_api/blob/main/images/cover.jpeg"
-
+        "../images/vip_cover 3.jpeg",
+        "../images/class 1.jpg",
+        "../images/playground 2.jpeg",
+        "../images/outdoor.jpeg"
       ]
 
     },
@@ -62,8 +64,10 @@
         { "jenis": "Kucing", "harga_per_hari": 170000 }
       ],
       "gambar": [
-        "https://github.com/dyaspita/penitipan_hewan_api/blob/main/images/cover.jpeg"
-        
+        "../images/vip_cover 2.jpeg",
+        "../images/vip.jpeg",
+        "../images/playground.jpeg",
+        "../images/outdoor.jpeg"
       ]
     },
     {
@@ -73,6 +77,12 @@
       "hewan": [
         { "jenis": "Anjing", "harga_per_hari": 220000 },
         { "jenis": "Kucing", "harga_per_hari": 190000 }
+      ],
+      "gambar": [
+        "../images/vip_cover 2.jpeg",
+        "../images/suit.jpeg",
+        "../images/playground.jpeg",
+        "../images/outdoor.jpeg"
       ]
     },
     {
@@ -82,6 +92,12 @@
       "hewan": [
         { "jenis": "Anjing", "harga_per_hari": 70000 },
         { "jenis": "Kucing", "harga_per_hari": 60000 }
+      ],
+      "gambar": [
+        "../images/vip_cover 3.jpeg",
+        "../images/class 1.jpg",
+        "../images/playground 2.jpeg",
+        "../images/outdoor.jpeg"
       ]
     },
     {
@@ -91,6 +107,12 @@
       "hewan": [
         { "jenis": "Anjing", "harga_per_hari": 85000 },
         { "jenis": "Kucing", "harga_per_hari": 75000 }
+      ],
+      "gambar": [
+        "../images/vip_cover 4.jpeg",
+        "../images/medium.jpg",
+        "../images/playground 2.jpeg",
+        "../images/outdoor.jpeg"
       ]
     },
     {
@@ -100,6 +122,12 @@
       "hewan": [
         { "jenis": "Anjing", "harga_per_hari": 250000 },
         { "jenis": "Kucing", "harga_per_hari": 200000 }
+      ],
+      "gambar": [
+        "../images/vip_cover 3.jpeg",
+        "../images/class 1.jpg",
+        "../images/playground 2.jpeg",
+        "../images/outdoor.jpeg"
       ]
     },
     {
@@ -109,6 +137,12 @@
       "hewan": [
         { "jenis": "Anjing", "harga_per_hari": 160000 },
         { "jenis": "Kucing", "harga_per_hari": 130000 }
+      ],
+      "gambar": [
+        "../images/vip_cover 3.jpeg",
+        "../images/class 1.jpg",
+        "../images/playground 2.jpeg",
+        "../images/outdoor.jpeg"
       ]
     }
   ]
