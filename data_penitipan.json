@@ -4,145 +4,111 @@
       "id": 1,
       "nama": "VIP Suite",
       "deskripsi": "Ruang ber-AC, tempat tidur empuk, kamera pemantau 24 jam, dan grooming harian.",
-      "hewan": [
-        { "jenis": "Anjing", "harga_per_hari": 180000 },
-        { "jenis": "Kucing", "harga_per_hari": 150000 }
-      ],
+      "hewan": "kucing",
+      "harga": 120000,
       "gambar": [
-        "../images/vip_cover 3.jpeg",
-        "../images/class 1.jpg",
-        "../images/playground 2.jpeg",
-        "../images/outdoor.jpeg"
+        "https://web14.bernama.com/storage/photos/13430f866b7e6aadd3d7cf0e52f1335d67c3b98ee118c",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r991-loy5lw2srwwd72"
       ]
-
     },
     {
       "id": 2,
       "nama": "Deluxe Room",
       "deskripsi": "Kandang luas dengan kipas angin, makan premium dua kali sehari, dan mainan pribadi.",
-      "hewan": [
-        { "jenis": "Anjing", "harga_per_hari": 130000 },
-        { "jenis": "Kucing", "harga_per_hari": 110000 }
-      ],
+      "hewan": "kucing",
+      "harga": 100000,
       "gambar": [
-        "https://github.com/dyaspita/penitipan_hewan_api/blob/main/images/cover.jpeg"
-        
+        "https://www.rukita.co/stories/wp-content/uploads/2019/12/petshop-4.jpg",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r991-loy5lw2srwwd72"
       ]
     },
     {
       "id": 3,
       "nama": "Standard Room",
       "deskripsi": "Kandang standar, makan rutin dua kali sehari, dan kebersihan harian.",
-      "hewan": [
-        { "jenis": "Anjing", "harga_per_hari": 90000 },
-        { "jenis": "Kucing", "harga_per_hari": 75000 }
-      ],
+      "hewan": "kucing",
+      "harga": 90000,
       "gambar": [
-        "https://github.com/dyaspita/penitipan_hewan_api/blob/main/images/cover.jpeg"
-        
+        "https://assets.petpintar.com/files/article/741/1660973975-tempat-penitipan-kucing-surabaya-banner.jpg",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r991-loy5lw2srwwd72"
       ]
     },
     {
       "id": 4,
-      "nama": "Outdoor Play Zone",
+      "nama": "Standard Room Type 2",
       "deskripsi": "Penitipan di area outdoor dengan aktivitas bermain dan jalan pagi/sore.",
-      "hewan": [
-        { "jenis": "Anjing", "harga_per_hari": 120000 },
-        { "jenis": "Kucing", "harga_per_hari": 95000 }
-      ],
+      "hewan": "kucing",
+      "harga": 70000,
       "gambar": [
-        "https://github.com/dyaspita/penitipan_hewan_api/blob/main/images/cover.jpeg"
-        
+        "https://assets.petpintar.com/files/article/741/1660973975-tempat-penitipan-kucing-surabaya-banner.jpg",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r991-loy5lw2srwwd72"
       ]
     },
     {
       "id": 5,
       "nama": "Spa & Relax Package",
       "deskripsi": "Termasuk mandi aromaterapi, pijat relaksasi, dan grooming premium.",
-      "hewan": [
-        { "jenis": "Anjing", "harga_per_hari": 200000 },
-        { "jenis": "Kucing", "harga_per_hari": 170000 }
-      ],
+      "hewan": "kucing",
+      "harga": 200000,
       "gambar": [
-        "../images/vip_cover 2.jpeg",
-        "../images/vip.jpeg",
-        "../images/playground.jpeg",
-        "../images/outdoor.jpeg"
+        "https://assets.petpintar.com/files/article/741/1660973975-tempat-penitipan-kucing-surabaya-banner.jpg",
+        "https://down-id.img.susercontent.com/file/id-11134207-7r991-loy5lw2srwwd72"
       ]
     },
     {
       "id": 6,
-      "nama": "Medical Care Room",
-      "deskripsi": "Untuk hewan yang sedang pemulihan. Dipantau oleh staf medis dan diberi obat sesuai resep.",
-      "hewan": [
-        { "jenis": "Anjing", "harga_per_hari": 220000 },
-        { "jenis": "Kucing", "harga_per_hari": 190000 }
-      ],
+      "nama": "VIP Suite Class",
+      "deskripsi": "Ruang ber-AC, tempat tidur empuk, kamera pemantau 24 jam, dan grooming harian.",
+      "hewan": "anjing",
+      "harga": 200000,
       "gambar": [
-        "../images/vip_cover 2.jpeg",
-        "../images/suit.jpeg",
-        "../images/playground.jpeg",
-        "../images/outdoor.jpeg"
+        "https://assets-global.website-files.com/6139cf517cd6d2b4af548b94/613a19d4ea090fe88fee09ca_pet-hotel-780x440.jpeg",
+        "https://middlekingdomrescue.com/wp-content/uploads/2024/12/a-photo-of-a-dog-hotel-pet-resort-with-m_DcoehIdfT-KDhGuJAKfjCg_JTtXIc3KSEmbGGgnCZeaYg.jpeg"
       ]
     },
     {
       "id": 7,
-      "nama": "Day Care",
-      "deskripsi": "Penitipan setengah hari (maksimal 8 jam) dengan aktivitas ringan.",
-      "hewan": [
-        { "jenis": "Anjing", "harga_per_hari": 70000 },
-        { "jenis": "Kucing", "harga_per_hari": 60000 }
-      ],
+      "nama": "Deluxe Room Dog",
+      "deskripsi": "Kandang luas dengan kipas angin, makan premium dua kali sehari, dan mainan pribadi.",
+      "hewan": "anjing",
+      "harga": 120000,
       "gambar": [
-        "../images/vip_cover 3.jpeg",
-        "../images/class 1.jpg",
-        "../images/playground 2.jpeg",
-        "../images/outdoor.jpeg"
+        "https://www.ketawahotel.com/images/765.jpg",
+        "https://middlekingdomrescue.com/wp-content/uploads/2024/12/a-photo-of-a-dog-hotel-pet-resort-with-m_DcoehIdfT-KDhGuJAKfjCg_JTtXIc3KSEmbGGgnCZeaYg.jpeg"
       ]
     },
     {
       "id": 8,
-      "nama": "Night Stay",
-      "deskripsi": "Penitipan malam saja (jam 18:00–08:00), termasuk makan malam dan pagi.",
-      "hewan": [
-        { "jenis": "Anjing", "harga_per_hari": 85000 },
-        { "jenis": "Kucing", "harga_per_hari": 75000 }
-      ],
+      "nama": "Room Type C",
+      "deskripsi": "Kandang standar, makan rutin dua kali sehari, dan kebersihan harian.",
+      "hewan": "kucing",
+      "harga": 100000,
       "gambar": [
-        "../images/vip_cover 4.jpeg",
-        "../images/medium.jpg",
-        "../images/playground 2.jpeg",
-        "../images/outdoor.jpeg"
+        "https://news.detik.com/x/detail/intermeso/20230826/Hotel-Bintang-5-untuk-Anjing-Kesayangan/images/img_2786-w7o3m5.png",
+        "https://middlekingdomrescue.com/wp-content/uploads/2024/12/a-photo-of-a-dog-hotel-pet-resort-with-m_DcoehIdfT-KDhGuJAKfjCg_JTtXIc3KSEmbGGgnCZeaYg.jpeg"
       ]
     },
     {
       "id": 9,
-      "nama": "Training Camp",
-      "deskripsi": "Program penitipan sekaligus pelatihan dasar seperti duduk, diam, atau litter training.",
-      "hewan": [
-        { "jenis": "Anjing", "harga_per_hari": 250000 },
-        { "jenis": "Kucing", "harga_per_hari": 200000 }
-      ],
+      "nama": "Room Type D",
+      "deskripsi": "Penitipan di area outdoor dengan aktivitas bermain dan jalan pagi/sore.",
+      "hewan": "kucing",
+      "harga": 100000,
       "gambar": [
-        "../images/vip_cover 3.jpeg",
-        "../images/class 1.jpg",
-        "../images/playground 2.jpeg",
-        "../images/outdoor.jpeg"
+        "https://awsimages.detik.net.id/community/media/visual/2024/04/04/ciamik-tempat-penitipan-hewan-ini-seperti-hotel_169.jpeg?w=700&q=90",
+        "https://middlekingdomrescue.com/wp-content/uploads/2024/12/a-photo-of-a-dog-hotel-pet-resort-with-m_DcoehIdfT-KDhGuJAKfjCg_JTtXIc3KSEmbGGgnCZeaYg.jpeg"
       ]
     },
     {
       "id": 10,
-      "nama": "Holiday Package",
-      "deskripsi": "Paket penitipan jangka panjang (minimal 5 hari) dengan diskon khusus dan perawatan mingguan.",
-      "hewan": [
-        { "jenis": "Anjing", "harga_per_hari": 160000 },
-        { "jenis": "Kucing", "harga_per_hari": 130000 }
-      ],
+      "nama": "Include Spa & Relax Package",
+      "deskripsi": "Termasuk mandi aromaterapi, pijat relaksasi, dan grooming premium.",
+      "hewan": "kucing",
+      "harga": 200000,
       "gambar": [
-        "../images/vip_cover 3.jpeg",
-        "../images/class 1.jpg",
-        "../images/playground 2.jpeg",
-        "../images/outdoor.jpeg"
+        "https://i.pinimg.com/originals/68/f8/79/68f8790305dfb19bcdd54ce659dd105d.jpg",
+        "https://middlekingdomrescue.com/wp-content/uploads/2024/12/a-photo-of-a-dog-hotel-pet-resort-with-m_DcoehIdfT-KDhGuJAKfjCg_JTtXIc3KSEmbGGgnCZeaYg.jpeg",
+        "https://storymaker.cc/wp-content/uploads/2023/10/dog-spa.jpg"
       ]
     }
   ]
