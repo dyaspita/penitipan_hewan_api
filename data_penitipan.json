@@ -2,18 +2,18 @@
   "jenis_layanan": [
     {
       "id": 1,
-      "nama": "VIP Suite",
+      "nama": "VIP Suite Cat",
       "deskripsi": "Ruang ber-AC, tempat tidur empuk, kamera pemantau 24 jam, dan grooming harian.",
       "hewan": "kucing",
       "harga": 120000,
       "gambar": [
-        "https://web14.bernama.com/storage/photos/13430f866b7e6aadd3d7cf0e52f1335d67c3b98ee118c",
+        "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_863/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/fyytwwvak1gaibp46mjr/CatwalkHotel-PengalamanStaycationKucingdiFoTan.jpg",
         "https://down-id.img.susercontent.com/file/id-11134207-7r991-loy5lw2srwwd72"
       ]
     },
     {
       "id": 2,
-      "nama": "Deluxe Room",
+      "nama": "Deluxe Room Cat",
       "deskripsi": "Kandang luas dengan kipas angin, makan premium dua kali sehari, dan mainan pribadi.",
       "hewan": "kucing",
       "harga": 100000,
@@ -24,29 +24,29 @@
     },
     {
       "id": 3,
-      "nama": "Standard Room",
+      "nama": "Standard Room Cat",
       "deskripsi": "Kandang standar, makan rutin dua kali sehari, dan kebersihan harian.",
       "hewan": "kucing",
       "harga": 90000,
       "gambar": [
-        "https://assets.petpintar.com/files/article/741/1660973975-tempat-penitipan-kucing-surabaya-banner.jpg",
+        "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_863/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/fyytwwvak1gaibp46mjr/CatwalkHotel-PengalamanStaycationKucingdiFoTan.jpg",
         "https://down-id.img.susercontent.com/file/id-11134207-7r991-loy5lw2srwwd72"
       ]
     },
     {
       "id": 4,
-      "nama": "Standard Room Type 2",
+      "nama": "Standard Room Type 2 Cat",
       "deskripsi": "Penitipan di area outdoor dengan aktivitas bermain dan jalan pagi/sore.",
       "hewan": "kucing",
       "harga": 70000,
       "gambar": [
-        "https://assets.petpintar.com/files/article/741/1660973975-tempat-penitipan-kucing-surabaya-banner.jpg",
+        "https://i.pinimg.com/736x/c8/4d/da/c84dda86367a40dea6187a4e9b973382.jpg",
         "https://down-id.img.susercontent.com/file/id-11134207-7r991-loy5lw2srwwd72"
       ]
     },
     {
       "id": 5,
-      "nama": "Spa & Relax Package",
+      "nama": "Spa & Relax Package Cat",
       "deskripsi": "Termasuk mandi aromaterapi, pijat relaksasi, dan grooming premium.",
       "hewan": "kucing",
       "harga": 200000,
@@ -57,7 +57,7 @@
     },
     {
       "id": 6,
-      "nama": "VIP Suite Class",
+      "nama": "VIP Suite Class Dog",
       "deskripsi": "Ruang ber-AC, tempat tidur empuk, kamera pemantau 24 jam, dan grooming harian.",
       "hewan": "anjing",
       "harga": 200000,
@@ -79,9 +79,9 @@
     },
     {
       "id": 8,
-      "nama": "Room Type C",
+      "nama": "Dog Room Type C",
       "deskripsi": "Kandang standar, makan rutin dua kali sehari, dan kebersihan harian.",
-      "hewan": "kucing",
+      "hewan": "anjing",
       "harga": 100000,
       "gambar": [
         "https://news.detik.com/x/detail/intermeso/20230826/Hotel-Bintang-5-untuk-Anjing-Kesayangan/images/img_2786-w7o3m5.png",
@@ -90,9 +90,9 @@
     },
     {
       "id": 9,
-      "nama": "Room Type D",
+      "nama": "Dog Room Type D",
       "deskripsi": "Penitipan di area outdoor dengan aktivitas bermain dan jalan pagi/sore.",
-      "hewan": "kucing",
+      "hewan": "anjing",
       "harga": 100000,
       "gambar": [
         "https://awsimages.detik.net.id/community/media/visual/2024/04/04/ciamik-tempat-penitipan-hewan-ini-seperti-hotel_169.jpeg?w=700&q=90",
@@ -101,9 +101,9 @@
     },
     {
       "id": 10,
-      "nama": "Include Spa & Relax Package",
+      "nama": "Include Spa & Relax Package (Dog)",
       "deskripsi": "Termasuk mandi aromaterapi, pijat relaksasi, dan grooming premium.",
-      "hewan": "kucing",
+      "hewan": "anjing",
       "harga": 200000,
       "gambar": [
         "https://i.pinimg.com/originals/68/f8/79/68f8790305dfb19bcdd54ce659dd105d.jpg",
